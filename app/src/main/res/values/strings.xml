@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ToDoNotes</string>
+    <string name="select_image">Select Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">logo</string>
+    <string name="todo_notes_app">Todo Notes App</string>
+    <string name="next">Next</string>
+    <string name="your_own_todo_notes_app">Your Own Todo Notes App</string>
+    <string name="create_your_own_todo_for_the_day">Create your own Todo for the day</string>
+    <string name="previous">Previous</string>
+    <string name="done">Done</string>
+    <string name="organize_with_perfection">Organise with perfection</string>
+    <string name="add_notes_with_images_either_from_camera_or_your_gallery">Add notes with images either from camera or your gallery</string>
+    <string name="welcome">Welcome</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="empty_string_error">Fields cannot be empty</string>
+    <string name="select_picker">Select Picker</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>

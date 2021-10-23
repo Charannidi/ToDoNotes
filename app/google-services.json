@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268464156800",
+    "project_id": "todo-e5fa2",
+    "storage_bucket": "todo-e5fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268464156800:android:a57408330baf3eda373665",
+        "android_client_info": {
+          "package_name": "app.iagri.todonotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268464156800-90pe13eae6tainfgjcs7eccktcmcuh08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtf-x6KuAH79qcRSVoBmj7rnyANEQb1qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268464156800-90pe13eae6tainfgjcs7eccktcmcuh08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
